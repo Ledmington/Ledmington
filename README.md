@@ -6,14 +6,18 @@ More information about me (including my CV) are available on [my personal web pa
 
 ### Mottos
 
-<blockquote class="twitter-tweet"><p lang="en" dir="ltr">The only way to go fast is to go well.</p>&mdash; Robert C. Martin AKA Uncle Bob</blockquote>
+> *The only way to go fast is to go well.*
 
-### Random GitHub stats
+> *If a computer can do it, a computer should do it.*
+
+<blockquote class="twitter-tweet">&mdash; Robert C. Martin AKA Uncle Bob</blockquote>
+
+### GitHub statistics
 
 <div align="center">
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ledmington)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ledmington&hide=html,css,xslt,makefile&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ledmington&hide=html,css,scss,xslt,makefile&langs_count=30)](https://github.com/anuraghazra/github-readme-stats)
 
 </div>
