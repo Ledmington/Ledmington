@@ -1,6 +1,6 @@
 ## Filippo Barbari
 
-Master's degree student at the University of Bologna.
+I am a master's degree student at the University of Bologna.
 
 More information about me (including my CV) are available on [my personal web page](https://ledmington.github.io).
 
@@ -12,6 +12,12 @@ More information about me (including my CV) are available on [my personal web pa
 
 <blockquote class="twitter-tweet">&mdash; Robert C. Martin AKA Uncle Bob</blockquote>
 
+### Things I love :heart:
+- program in C and Java
+- simulations
+- parallel computing
+- declarative and esoteric programming languages
+
 ### Skills
 
 <p align="left">
@@ -20,14 +26,13 @@ More information about me (including my CV) are available on [my personal web pa
 <a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
 <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
 
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Ledmington" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/filippo-barbari-bb2b55181" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/18851577/filippo-barbari" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
 
-### My GitHub Stats
+### My GitHub Statistics
 
 <a href="http://www.github.com/Ledmington"><img src="https://github-readme-stats.vercel.app/api?username=Ledmington&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Ledmington's GitHub stats" /></a>
 
