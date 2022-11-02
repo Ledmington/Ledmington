@@ -1,6 +1,6 @@
 ## Filippo Barbari
 
-I am a master's degree student at the University of Bologna.
+I am currently employed as an HPC Technology Specialist junior at CINECA, Casalecchio di Reno (BO), Italy.
 
 More information about me (including my CV) are available on [my personal web page](https://ledmington.github.io).
 
