@@ -7,10 +7,16 @@ More information about me (including my CV) are available on [my personal web pa
 ### Mottos
 
 > *The only way to go fast is to go well.*
+> 
+> &mdash; Robert C. Martin AKA Uncle Bob
 
 > *If a computer can do it, a computer should do it.*
+>
+> &mdash; Robert C. Martin AKA Uncle Bob
 
-<blockquote class="twitter-tweet">&mdash; Robert C. Martin AKA Uncle Bob</blockquote>
+> *Your first 10,000 photographs are your worst.*
+>
+> &mdash; Henri Cartier-Bresson
 
 ### Things I love :heart:
 - program in C and Java
