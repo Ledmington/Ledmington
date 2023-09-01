@@ -1,6 +1,6 @@
 ## Filippo Barbari
 
-I am currently employed as an HPC Technology Specialist junior at CINECA, Casalecchio di Reno (BO), Italy.
+I am currently employed as an HPC Technology Specialist at CINECA, Casalecchio di Reno (BO), Italy.
 
 More information about me (including my CV) are available on [my personal web page](https://ledmington.github.io).
 
