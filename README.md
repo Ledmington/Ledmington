@@ -19,10 +19,11 @@ More information about me (including my CV) are available on [my personal web pa
 > &mdash; Henri Cartier-Bresson
 
 ### Things I love :heart:
-- program in C and Java
+- programming in C, C++ and Java
 - simulations
 - parallel computing
 - declarative and esoteric programming languages
+- board games
 
 ### Skills
 
